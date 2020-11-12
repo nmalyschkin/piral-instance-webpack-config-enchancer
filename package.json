@@ -29,7 +29,6 @@
   },
   "homepage": "https://github.com/FlorianRappl/piral-webpack-tools#readme",
   "devDependencies": {
-    "webpack": "4.42.0"
-  },
-  "dependencies": {}
+    "webpack": "^5.4.0"
+  }
 }
