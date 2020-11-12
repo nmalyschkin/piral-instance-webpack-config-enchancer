@@ -1,7 +1,7 @@
 {
   "name": "piral-instance-webpack-config-enchancer",
   "version": "0.1.0",
-  "description": "Webpack plugin for generating a valid Piral instance bundle.",
+  "description": "Webpack enchancer for generating a valid Piral instance bundle.",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "scripts": {
